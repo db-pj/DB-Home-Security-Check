@@ -9,5 +9,12 @@ In the *About This Mac* window make sure your Mac has the latest updates by clic
 Should look similar to this:
 ![Mac Info](images/mac-info.png)
 
-
+<br><br>
 # Windows Users
+
+Should look similar to this:
+![Windows Update](images/Windows-Update.png)
+
+![Windows Security Home](images/Windows-Security-Home.png)
+
+![Windows Security Virus](images/Windows-Security-Virus.png)
