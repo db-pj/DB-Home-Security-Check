@@ -3,7 +3,7 @@
 - [ ] Ashley
 - [ ] Christine
 - [ ] Danielle
-- [ ] Hayley
+- [x] Hayley
 - [ ] Jon
 - [ ] Levi
 - [ ] Lillian
