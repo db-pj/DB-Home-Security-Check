@@ -21,4 +21,4 @@ Should look similar to this:
 Should look similar to this:
 ![Windows Security Home](images/Windows-Security-Home.png)
 
--> Email 3 screenshots to <a href="mailto:pj@digitalbrands.com?subject=About%20Windows">pj@digitalbrands.com</a> to confirm.
+-> Email 3 screenshots to [pj@digitalbrands.com](mailto:pj@digitalbrands.com) to confirm.
